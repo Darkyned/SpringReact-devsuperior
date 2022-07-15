@@ -7,6 +7,6 @@ function NotificationButton() {
         <img src={icon} alt="Notificar" />
         </div>
     )
-}
+};
 
-export default NotificationButton
+export default NotificationButton;
